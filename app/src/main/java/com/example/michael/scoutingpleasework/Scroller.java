@@ -15,7 +15,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.*;
 public class Scroller extends AppCompatActivity {
-    //pliz
+
     EditText teamNumber;
     EditText matchNumber;
     CheckBox parkingZone;
